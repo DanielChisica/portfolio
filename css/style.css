@@ -152,7 +152,7 @@
     padding-top: 1.2rem;
 }
 
-.angular{
+.angular, .firebase{
     padding-top: 0.4rem;
 }
 
@@ -297,12 +297,8 @@
     margin: 3rem 0rem;
 }
 
-.site-main .about-area .client .client-img{
+.site-main .about-area .client .client-img, .about-client{
     padding: 2rem;
-}
-
-.site-main .about-area .client .about-client{
-    padding-top: 2rem;
 }
 
 .site-main .about-area .client .about-client h4{
